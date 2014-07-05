@@ -10,7 +10,7 @@
 
 <https://id.minipaas.org/minipaas/plugin.redis> a mini:Plugin;
     dc:title "Minipaas ~Redis~"@en;
-    dc:identifier "minipaas/plugins.redis";
+    dc:identifier "minipaas/plugin.redis";
     mini:plugin "redis";
     rdfs:comment "This is the minipaas redis plugin"@en;
     mini:storage "minipaas/plugins.disk";
