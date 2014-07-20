@@ -13,7 +13,7 @@
     dc:identifier "minipaas/plugin.redis";
     mini:pluginSuffix "redis";
     rdfs:comment "This is the minipaas redis plugin"@en;
-    mini:storage "minipaas/plugins.disk";
+    mini:storage "minipaas/plugin.disk";
     mini:license [
         mini:licenseIdentifier "copyleft-next-0.3";
         foaf:homepage <https://raw.github.com/richardfontana/copyleft-next/master/Releases/copyleft-next-0.3.0>;
